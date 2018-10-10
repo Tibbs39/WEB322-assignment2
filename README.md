@@ -6,7 +6,7 @@ The following is demonstrated with this project:
     - Responding to GET requests with an html file.
     - Responding to GET requests with JSON code.
 
-This webapp was uploaded to heroku and can be viewed here: [https://glacial-plateau-51668.herokuapp.com/](https://glacial-plateau-51668.herokuapp.com/).
+This webapp was uploaded to heroku and can be viewed here: [https://glacial-plateau-51668.herokuapp.com/](https://glacial-plateau-51668.herokuapp.com/)
 
 **TODO:** Assignment 3 will build upon this webapp. It will be uploaded once the due date has passed. Stay tuned!
 
