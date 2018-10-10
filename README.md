@@ -2,9 +2,9 @@
 
 This project is just a basic demonstration of Node.js.
 The following is demonstrated with this project:
-    - Routing GET requests
-    - Responding to GET requests with an html file.
-    - Responding to GET requests with JSON code.
+- Routing GET requests
+- Responding to GET requests with an html file.
+- Responding to GET requests with JSON code.
 
 This webapp was uploaded to heroku and can be viewed here: [https://glacial-plateau-51668.herokuapp.com/](https://glacial-plateau-51668.herokuapp.com/)
 
