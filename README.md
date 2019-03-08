@@ -6,8 +6,6 @@ The following is demonstrated with this project:
 - Responding to GET requests with an html file.
 - Responding to GET requests with JSON code.
 
-This webapp was uploaded to heroku and can be viewed here: [https://glacial-plateau-51668.herokuapp.com/](https://glacial-plateau-51668.herokuapp.com/)
-
 [Assignment 3](https://github.com/Tibbs39/WEB322-assignment3) builds upon this webapp. Go check it out!
 
 *My intention with uploading school assignments on GitHub is merely to build a portfolio of my work.* **_Please do not plagiarize._**
